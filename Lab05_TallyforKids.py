@@ -8,7 +8,7 @@ total = 0
 num = input("NUMBER> ")
 
 while num != "quit":
-    if num == "Quit" or num == "QUIT":
+    if num == "Quit" or num == "QUIT" or num == "QUit":
         print("Input invalid. If you want to stop enter: quit")
         num = input("NUMBER> ")
     else:
