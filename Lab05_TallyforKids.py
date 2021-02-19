@@ -22,6 +22,7 @@ while num != "quit":
 print(f"The addition of the {count} numbers entered is:")
 print("OUTPUT", count, "numbers")
 print("OUTPUT", total, "total")
+print("Goodbye!")
         
 
  
