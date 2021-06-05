@@ -2,11 +2,11 @@ Title: A Day in the Park
 
 Line 1 (Elijah): 
 
-Line 2 (Colter): 
+Line 2 (Colter): This frog found a new friend, Mr. Toad, in the Park!
 
 Line 3 (Elijah): 
 
-Line 4 (Colter): 
+Line 4 (Colter): They got some ice cream and flew some kites.
 
 Line 5 (me):
 
